@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/style.css">
-	<title>Class 49</title>
-</head>
-<body>
+
+
+# All codes of form_database_table
 
 
 
@@ -137,28 +130,4 @@
 	 		</div>
 	 	</div>
 	 </div>
-
-
-
-
-
-
-
-
-
-	<script src="assets/js/jquery-3.5.1.slim.min.js"></script>
-	<script src="assets/js/popper.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script>
-		
-
-
-	</script>
-
-
-	
-</body>
-</html> 
-
-
 
