@@ -1,0 +1,57 @@
+*{
+	margin:0px;
+	padding: 0px;
+	font-family: changa;
+}
+.top{
+	margin-top:150px;
+}
+h1{
+	margin:auto;
+	display: table;
+}
+.box{
+	width:400px;
+	height: 400px;
+	background: #09272d;
+}
+form input{
+	background:transparent;
+	margin-top:10px;
+	border:1px solid gray;
+	outline: none;
+	color:white;
+}
+form input:focus{
+	border:1px solid white;
+}
+form input[type="submit"]{
+	background: green;
+	font-weight: bold;
+	font-size: 20px;
+	border:none;
+	font-family: monospace;
+
+}
+
+
+.table{
+	width:750px;
+	height:400px;
+	background: #09272d;
+	overflow: auto;
+
+}
+.table tr th{
+	border-top:none;
+	
+}
+
+
+.col-lg-4 {
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+
